@@ -9,22 +9,26 @@ Below, you'll find the resources have been categorized as course or project-spec
 
 **Projects (Starter Code)**
 
-- Robot Maze 1, [coming soon]
-- Robot Maze 2, [coming soon]
-- Pirate Fleet 1, [coming soon]
-- Pirate Fleet 2, [coming soon]
-- Alien Adventure, [coming soon]
-- Geo Quiz, [coming soon]
-- Objective-C for Swift Developers Problem Set, [coming soon]
-- GifMaker (Swift), [coming soon]
-- GifMaker (Objective-C), [coming soon]
+| Repo  | Link  | Direct Download  |
+| :---- |:----- |:---------------- |
+| Robot Maze 1 | [coming soon] | [coming soon] |
+| Robot Maze 2 | [coming soon] | [coming soon] |
+| Pirate Fleet 1 | [coming soon] | [coming soon] |
+| Pirate Fleet 2 | [coming soon] | [coming soon] |
+| Alien Adventure | [coming soon] | [coming soon] |
+| Geo Quiz | [coming soon] | [coming soon] |
+| Objective-C for Swift Developers Problem Set | [coming soon] | [coming soon] |
+| GifMaker (Swift) | [coming soon] | [coming soon] |
+| GifMaker (Objective-C) | [coming soon] | [coming soon] |
 
 **Courses**
 
-- Learning Swift, [coming soon]
-- UIKit Fundamentals, [coming soon]
-- iOS Networking with Swift, [coming soon]
-- iOS Persistence and Core Data, [coming soon]
-- Swift Syntax, [coming soon]
-- iOS Debugging, [coming soon]
-- Grand Central Dispatch, [coming soon]
+| Repo  | Link  | Direct Download  |
+| :---- |:----- |:---------------- |
+| Learning Swift | [coming soon] | [coming soon] |
+| UIKit Fundamentals | [coming soon] | [coming soon] |
+| iOS Networking with Swift | [coming soon] | [coming soon] |
+| iOS Persistence and Core Data | [coming soon] | [coming soon] |
+| Swift Syntax | [coming soon] | [coming soon] |
+| iOS Debugging | [coming soon] | [coming soon] |
+| Grand Central Dispatch | [coming soon] | [coming soon] |
