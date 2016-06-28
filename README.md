@@ -9,22 +9,26 @@ Below, you'll find the resources have been categorized as course or project-spec
 
 **Projects (Starter Code)**
 
-- Robot Maze 1, https://github.com/udacity/ios-nd-robot-maze-1
-- Robot Maze 2, https://github.com/udacity/ios-nd-robot-maze-2
-- Pirate Fleet 1, https://github.com/udacity/ios-nd-pirate-fleet-1
-- Pirate Fleet 2, https://github.com/udacity/ios-nd-pirate-fleet-2
-- Alien Adventure, https://github.com/udacity/ios-nd-alien-adventure
-- Geo Quiz, https://github.com/udacity/ios-nd-geo-quiz
-- Objective-C for Swift Developers Problem Set, [coming soon]
-- GifMaker (Swift), [coming soon]
-- GifMaker (Objective-C), [coming soon]
+| Repo  | Link  | Direct Download  |
+| :---- |:----- |:---------------- |
+| Robot Maze 1 | https://github.com/udacity/ios-nd-robot-maze-1 | [Download](https://github.com/udacity/ios-nd-robot-maze-1/archive/master.zip) |
+| Robot Maze 2 | https://github.com/udacity/ios-nd-robot-maze-2 | [Download](https://github.com/udacity/ios-nd-robot-maze-2/archive/master.zip) |
+| Pirate Fleet 1 | https://github.com/udacity/ios-nd-pirate-fleet-1 | [Download](https://github.com/udacity/ios-nd-pirate-fleet-1/archive/master.zip) |
+| Pirate Fleet 2 | https://github.com/udacity/ios-nd-pirate-fleet-2 | [Download](https://github.com/udacity/ios-nd-pirate-fleet-2/archive/master.zip) |
+| Alien Adventure | https://github.com/udacity/ios-nd-alien-adventure | [Download](https://github.com/udacity/ios-nd-alien-adventure/archive/master.zip) |
+| Geo Quiz | https://github.com/udacity/ios-nd-geo-quiz | [Download](https://github.com/udacity/ios-nd-geo-quiz/archive/master.zip) |
+| Objective-C for Swift Developers Problem Set | [coming soon] | [coming soon] |
+| GifMaker (Swift) | [coming soon] | [coming soon] |
+| GifMaker (Objective-C) | [coming soon] | [coming soon] |
 
 **Courses**
 
-- Learning Swift, [coming soon]
-- UIKit Fundamentals, https://github.com/udacity/ios-nd-uikit
-- iOS Networking with Swift, https://github.com/udacity/ios-nd-networking
-- iOS Persistence and Core Data, [coming soon]
-- Swift Syntax, https://github.com/udacity/ios-nd-swift-syntax
-- iOS Debugging, https://github.com/udacity/ios-nd-debugging
-- Grand Central Dispatch, https://github.com/udacity/ios-nd-gcd
+| Repo  | Link  | Direct Download  |
+| :---- |:----- |:---------------- |
+| Learning Swift | [coming soon] | [coming soon] |
+| UIKit Fundamentals | https://github.com/udacity/ios-nd-uikit | [Download](https://github.com/udacity/ios-nd-uikit/archive/master.zip) |
+| iOS Networking with Swift | https://github.com/udacity/ios-nd-networking | [Download](https://github.com/udacity/ios-nd-networking/archive/master.zip) |
+| iOS Persistence and Core Data | [coming soon] | [coming soon] |
+| Swift Syntax | https://github.com/udacity/ios-nd-swift-syntax | [Download](https://github.com/udacity/ios-nd-swift-syntax/archive/master.zip) |
+| iOS Debugging | https://github.com/udacity/ios-nd-debugging | [Download](https://github.com/udacity/ios-nd-debugging/archive/master.zip) |
+| Grand Central Dispatch | https://github.com/udacity/ios-nd-gcd | [Download](https://github.com/udacity/ios-nd-gcd/archive/master.zip) |
