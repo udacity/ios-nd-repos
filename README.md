@@ -17,7 +17,7 @@ Below, you'll find the resources have been categorized as course or project-spec
 | Pirate Fleet 2 | https://github.com/udacity/ios-nd-pirate-fleet-2 | [Download](https://github.com/udacity/ios-nd-pirate-fleet-2/archive/master.zip) |
 | Alien Adventure | https://github.com/udacity/ios-nd-alien-adventure | [Download](https://github.com/udacity/ios-nd-alien-adventure/archive/master.zip) |
 | Geo Quiz | https://github.com/udacity/ios-nd-geo-quiz | [Download](https://github.com/udacity/ios-nd-geo-quiz/archive/master.zip) |
-| Objective-C for Swift Developers Problem Set | https://github.com/udacity/ios-nd-objc-problem-set | [Download](https://github.com/udacity/ios-nd-objc-problem-set/archive/master.zip) |
+| Objective-C for Swift Problem Set | https://github.com/udacity/ios-nd-objc-problem-set | [Download](https://github.com/udacity/ios-nd-objc-problem-set/archive/master.zip) |
 | GifMaker (Swift) | https://github.com/udacity/ios-nd-gif-maker-swift | [Download](https://github.com/udacity/ios-nd-gif-maker-swift/archive/master.zip) |
 | GifMaker (Objective-C) | https://github.com/udacity/ios-nd-gif-maker-objc | [Download](https://github.com/udacity/ios-nd-gif-maker-objc) |
 
