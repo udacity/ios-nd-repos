@@ -17,9 +17,9 @@ Below, you'll find the resources have been categorized as course or project-spec
 | Pirate Fleet 2 | https://github.com/udacity/ios-nd-pirate-fleet-2 | [Download](https://github.com/udacity/ios-nd-pirate-fleet-2/archive/master.zip) |
 | Alien Adventure | https://github.com/udacity/ios-nd-alien-adventure | [Download](https://github.com/udacity/ios-nd-alien-adventure/archive/master.zip) |
 | Geo Quiz | https://github.com/udacity/ios-nd-geo-quiz | [Download](https://github.com/udacity/ios-nd-geo-quiz/archive/master.zip) |
-| Objective-C for Swift Developers Problem Set | [coming soon] | [coming soon] |
-| GifMaker (Swift) | [coming soon] | [coming soon] |
-| GifMaker (Objective-C) | [coming soon] | [coming soon] |
+| Objective-C for Swift Developers Problem Set | https://github.com/udacity/ios-nd-objc-problem-set | [Download](https://github.com/udacity/ios-nd-objc-problem-set/archive/master.zip) |
+| GifMaker (Swift) | https://github.com/udacity/ios-nd-gif-maker-swift | [Download](https://github.com/udacity/ios-nd-gif-maker-swift/archive/master.zip) |
+| GifMaker (Objective-C) | https://github.com/udacity/ios-nd-gif-maker-objc | [Download](https://github.com/udacity/ios-nd-gif-maker-objc) |
 
 **Courses**
 
@@ -27,6 +27,7 @@ Below, you'll find the resources have been categorized as course or project-spec
 | :---- |:----- |:---------------- |
 | Learning Swift | [coming soon] | [coming soon] |
 | UIKit Fundamentals | https://github.com/udacity/ios-nd-uikit | [Download](https://github.com/udacity/ios-nd-uikit/archive/master.zip) |
+| UIKit Fundamentals (continued) | https://github.com/udacity/ios-nd-uikit-cont. | [Download](https://github.com/udacity/ios-nd-uikit-cont./archive/master.zip) |
 | iOS Networking with Swift | https://github.com/udacity/ios-nd-networking | [Download](https://github.com/udacity/ios-nd-networking/archive/master.zip) |
 | iOS Persistence and Core Data | [coming soon] | [coming soon] |
 | Swift Syntax | https://github.com/udacity/ios-nd-swift-syntax | [Download](https://github.com/udacity/ios-nd-swift-syntax/archive/master.zip) |
