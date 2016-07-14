@@ -27,7 +27,7 @@ Below, you'll find the resources have been categorized as course or project-spec
 | :---- |:----- |:---------------- |
 | Beginning iOS | https://github.com/udacity/ios-nd-beginning-ios | [Download](https://github.com/udacity/ios-nd-beginning-ios/archive/master.zip) |
 | UIKit Fundamentals | https://github.com/udacity/ios-nd-uikit | [Download](https://github.com/udacity/ios-nd-uikit/archive/master.zip) |
-| UIKit Fundamentals (continued) | https://github.com/udacity/ios-nd-uikit-cont. | [Download](https://github.com/udacity/ios-nd-uikit-cont./archive/master.zip) |
+| UIKit Fundamentals (continued) | [https://github.com/udacity/ios-nd-uikit-cont.](https://github.com/udacity/ios-nd-uikit-cont.) | [Download](https://github.com/udacity/ios-nd-uikit-cont./archive/master.zip) |
 | iOS Networking with Swift | https://github.com/udacity/ios-nd-networking | [Download](https://github.com/udacity/ios-nd-networking/archive/master.zip) |
 | iOS Persistence and Core Data | https://github.com/udacity/ios-nd-persistence | [Download](https://github.com/udacity/ios-nd-persistence/archive/master.zip) |
 | Swift Syntax | https://github.com/udacity/ios-nd-swift-syntax | [Download](https://github.com/udacity/ios-nd-swift-syntax/archive/master.zip) |
