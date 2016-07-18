@@ -1,11 +1,16 @@
 <img src="https://s3-us-west-1.amazonaws.com/udacity-content/degrees/catalog-images/nd003.png" alt="iOS Developer Nanodegree logo" height="70" >
-# iOS Developer Nanodegree
+
+# iOS Developer Nanodegree Repositories
+
+![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
 
 **English** | [Chinese](https://github.com/udacity/ios-nd-repos/blob/master/README_CN.md)
 
-This repository documents all resources provided to students in Udacity's iOS Developer Nanodegree. While these resources are provided throughout Udacity's classroom, it is useful to have everything centrally organized.
+This repository documents all resources provided to students in Udacity's iOS Developer Nanodegree.
 
-Below, you'll find the resources have been categorized as course or project-specific:
+## Overview
+
+While these resources are provided throughout Udacity's classroom, it is useful to have everything centrally organized. Below, you'll find the resources have been categorized as course or project-specific:
 
 **Projects (Starter Code)**
 
@@ -33,3 +38,11 @@ Below, you'll find the resources have been categorized as course or project-spec
 | Swift Syntax | https://github.com/udacity/ios-nd-swift-syntax | [Download](https://github.com/udacity/ios-nd-swift-syntax/archive/master.zip) |
 | iOS Debugging | https://github.com/udacity/ios-nd-debugging | [Download](https://github.com/udacity/ios-nd-debugging/archive/master.zip) |
 | Grand Central Dispatch | https://github.com/udacity/ios-nd-gcd | [Download](https://github.com/udacity/ios-nd-gcd/archive/master.zip) |
+
+## Setup
+
+See the linked repositories for specific setup information.
+
+## Maintainers
+
+@jarrodparkes
