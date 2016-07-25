@@ -28,8 +28,8 @@ While these resources are provided throughout Udacity's classroom, it is useful 
 
 **Courses**
 
-| Repo  | Link  | Direct Download  |
-| :---- |:----- |:---------------- |
+| Repo  | Link  | Direct Download  | Direct Download (Swift 3) |
+| :---- |:----- |:---------------- |:------------------------- |
 | Learning Swift | [coming soon] | [coming soon] | [coming soon] |
 | UIKit Fundamentals | [coming soon] | [coming soon] | [coming soon] |
 | iOS Networking with Swift | [coming soon] | [coming soon] | [coming soon] |
