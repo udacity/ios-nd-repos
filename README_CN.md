@@ -14,29 +14,29 @@ While these resources are provided throughout Udacity's classroom, it is useful 
 
 **Projects (Starter Code)**
 
-| Repo  | Link  | Direct Download  |
-| :---- |:----- |:---------------- |
-| Robot Maze 1 | [coming soon] | [coming soon] |
-| Robot Maze 2 | [coming soon] | [coming soon] |
-| Pirate Fleet 1 | [coming soon] | [coming soon] |
-| Pirate Fleet 2 | [coming soon] | [coming soon] |
-| Alien Adventure | [coming soon] | [coming soon] |
-| Geo Quiz | [coming soon] | [coming soon] |
-| Objective-C for Swift Developers Problem Set | [coming soon] | [coming soon] |
-| GifMaker (Swift) | [coming soon] | [coming soon] |
-| GifMaker (Objective-C) | [coming soon] | [coming soon] |
+| Repo  | Link  | Direct Download  | Direct Download (Swift 3) |
+| :---- |:----- |:---------------- |:------------------------- |
+| Robot Maze 1 | [coming soon] | [coming soon] | [coming soon] |
+| Robot Maze 2 | [coming soon] | [coming soon] | [coming soon] |
+| Pirate Fleet 1 | [coming soon] | [coming soon] | [coming soon] |
+| Pirate Fleet 2 | [coming soon] | [coming soon] | [coming soon] |
+| Alien Adventure | [coming soon] | [coming soon] | [coming soon] |
+| Geo Quiz | [coming soon] | [coming soon] | [coming soon] |
+| Objective-C for Swift Developers Problem Set | [coming soon] | [coming soon] | [coming soon] |
+| GifMaker (Swift) | [coming soon] | [coming soon] | [coming soon] |
+| GifMaker (Objective-C) | [coming soon] | [coming soon] | [coming soon] |
 
 **Courses**
 
 | Repo  | Link  | Direct Download  |
 | :---- |:----- |:---------------- |
-| Learning Swift | [coming soon] | [coming soon] |
-| UIKit Fundamentals | [coming soon] | [coming soon] |
-| iOS Networking with Swift | [coming soon] | [coming soon] |
-| iOS Persistence and Core Data | [coming soon] | [coming soon] |
-| Swift Syntax | [coming soon] | [coming soon] |
-| iOS Debugging | [coming soon] | [coming soon] |
-| Grand Central Dispatch | [coming soon] | [coming soon] |
+| Learning Swift | [coming soon] | [coming soon] | [coming soon] |
+| UIKit Fundamentals | [coming soon] | [coming soon] | [coming soon] |
+| iOS Networking with Swift | [coming soon] | [coming soon] | [coming soon] |
+| iOS Persistence and Core Data | [coming soon] | [coming soon] | [coming soon] |
+| Swift Syntax | [coming soon] | [coming soon] | [coming soon] |
+| iOS Debugging | [coming soon] | [coming soon] | [coming soon] |
+| Grand Central Dispatch | [coming soon] | [coming soon] | [coming soon] |
 
 ## Setup
 
